@@ -4,3 +4,4 @@ My frontend projects done:
 - [ComingSoon Page](https://cranky-thompson-c5e132.netlify.com/) idea from [FrontendMentor](https://frontendmentor.io) => [Source code](https://gitlab.com/DaniOrtez/comingsoon1)
 - [Huddle Landing Page](https://adoring-shaw-130cd9.netlify.com/) idea from [FrontendMentor](https://frontendmentor.io)
 - [Huddle Landing Page 2](https://eager-hugle-79a0bf.netlify.com/) idea from [FrontendMentor](https://frontendmentor.io) => [Source code](https://gitlab.com/DaniOrtez/huddlelandingpage)
+- [Netflix Jobs 404 Page](https://nervous-golick-2c3abd.netlify.com/) => [Source code](https://gitlab.com/DaniOrtez/netflixjobs404)
